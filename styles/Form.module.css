@@ -1,0 +1,18 @@
+.promptText {
+  color: white;
+  font-size: 16;
+  font-family:Arial, Helvetica, sans-serif;
+  margin-bottom: 8px;
+}
+
+.sendButton {
+  margin-top: 16px;
+}
+
+.otpPrompt {
+  font-size: 24px;
+  color: white;
+  font-family:Arial, Helvetica, sans-serif;
+  margin-bottom: 24px;
+  text-align: center;
+}

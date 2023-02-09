@@ -1,0 +1,1 @@
+export {default as useRiveWrapper} from './useRiveWrapper';
